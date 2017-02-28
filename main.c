@@ -1,3 +1,5 @@
+//Sokolov Vladislav homework №1 Dop. group #5
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
